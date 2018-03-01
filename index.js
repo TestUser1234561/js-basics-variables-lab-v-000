@@ -1,4 +1,4 @@
 // Code your solution in this file!
-companyName = 'Scuber'
+const companyName = 'Scuber'
 
-mostProfitableNeighborhood = 'Chelsea '
+mostProfitableNeighborhood = 'Chelsea'
